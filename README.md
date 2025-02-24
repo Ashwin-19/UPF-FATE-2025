@@ -7,7 +7,7 @@ Repository containing programming practices for final-year undergraduate student
 ## Objective of the Sessions
 
 ### I. Data Anonymization
-*   Code Satisfiability of Anonymity Criteria (K-Anonymity, L-Diversity, T-Closeness).
+*   Code Satisfiability of Anonymity Criteria ($k$-Anonymity, $l$-Diversity, $t$-Closeness).
 *   Implement Perturbative & Non-Perturbative Methods for satisfying Anonymity Criteria.
 *   Understand Trade-Offs in Anonymization and Limitations of different Anonymity Criteria.
 
@@ -18,7 +18,12 @@ Repository containing programming practices for final-year undergraduate student
 *   Work through Case Studies to adapt Fairness Criteria to real-world scenarios.
 
 ### III. Algorithmic Fairness: Classification
----
+*   Recap of Confusion Matrices, Receiver Operating Characteristic and Error Detection Curves. 
+*   Implement different Pre/In/Post-Processing methods using [AIF360](https://github.com/Trusted-AI/AIF360) to improve Model Fairness.
+*   Work on a Project, from Discrimination-Discovery to Mitigation of Disparate Impact; **Bonus**:
+    *   *Model Explanaibility using Counterfactuals, LIME & SHAP.*
+    *   *Ablation on Feature Subsets for improved Model Fairness.*
+    *   *Effect of $k$-Anonymization on Model Fairness.*
 
 ## Contents of this Repository
 
