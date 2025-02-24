@@ -23,7 +23,7 @@ Repository containing programming practices for final-year undergraduate student
 *   Work on a Project, from Discrimination-Discovery to Mitigation of Disparate Impact; **Bonus**:
     *   *Model Explanaibility using Counterfactuals, LIME & SHAP.*
     *   *Ablation on Feature Subsets for improved Model Fairness.*
-    *   *Effect of $k$-Anonymization on Model Fairness.*
+    *   *Effect of* $k$-*Anonymization on Model Fairness*.
 
 ## Contents of this Repository
 
